@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Noble
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on web development projects and blockchain
 - 📫 How to reach me: twitter(@mikey_noble) or mail to sundaymichael866@gmail.com
 
 <!---
